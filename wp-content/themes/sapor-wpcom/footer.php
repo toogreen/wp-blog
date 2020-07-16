@@ -8,7 +8,11 @@
  */
 ?>
 
+	<!iframe src="//siterubix.com/widget/website/a_aid/18e930cd" frameborder="0" scrolling="no" width="600" height="190" style="text-align: center; margin: auto;"></iframe>
+
+
 	</div><!-- #content -->
+	
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
 			<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'sapor' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'sapor' ), 'WordPress' ); ?></a>

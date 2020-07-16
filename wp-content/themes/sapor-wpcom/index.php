@@ -48,6 +48,8 @@ get_header(); ?>
 			<?php get_template_part( 'template-parts/content', 'none' ); ?>
 
 		<?php endif; ?>
+		
+		<iframe src="//siterubix.com/widget/website/a_aid/18e930cd" frameborder="0" scrolling="no" width="600" height="190" style="text-align: center; margin: auto;"></iframe>
 
 		</main><!-- #main -->
 	</div><!-- #primary -->
